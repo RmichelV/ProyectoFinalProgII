@@ -15,12 +15,12 @@ namespace ProyectoFinal
         }
 
         //methods//
-        public virtual void VerDatos()
+        public void VerDatos()
         {
             Console.WriteLine($"Empresa: {this.nombreDeLaEmpresa} \t NIT: {this.nitDeLaEmpresa}");
         }
 
-        public virtual void LeerDatos()
+        public void LeerDatos()
         {
             Console.Write($"Ingresa el nombre de la Empresa: ");
             this.nombreDeLaEmpresa = Console.ReadLine();

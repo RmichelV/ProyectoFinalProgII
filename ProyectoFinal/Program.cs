@@ -6,7 +6,11 @@ namespace ProyectoFinal.Clases
     {
         static void Main(string[] args)
         {
+            Empresa emp1 = new Empresa();
 
+            emp1.VerDatos();
+
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,15 @@
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/bin/Debug/net7.0/ProyectoFinal
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/bin/Debug/net7.0/ProyectoFinal.deps.json
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/bin/Debug/net7.0/ProyectoFinal.runtimeconfig.json
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/bin/Debug/net7.0/ProyectoFinal.dll
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/bin/Debug/net7.0/ProyectoFinal.pdb
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.csproj.AssemblyReference.cache
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.AssemblyInfoInputs.cache
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.AssemblyInfo.cs
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.csproj.CoreCompileInputs.cache
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.dll
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/refint/ProyectoFinal.dll
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.pdb
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ProyectoFinal.genruntimeconfig.cache
+/Users/michel/Documents/2-SEM/PROGRAMACION 2/3EX/Proyecto/ProyectoFinal/ProyectoFinal/obj/Debug/net7.0/ref/ProyectoFinal.dll
