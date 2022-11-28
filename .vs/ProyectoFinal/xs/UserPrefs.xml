@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{9B223DB7-C8AF-47C2-BB51-AC281133A403}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProyectoFinal/Clases/VehiculoDeCarga.cs">
+    <Files>
+      <File FileName="ProyectoFinal/Program.cs" Line="17" Column="1" />
+      <File FileName="ProyectoFinal/Empresa.cs" Line="18" Column="15" />
+      <File FileName="ProyectoFinal/Clases/VehiculoDeCarga.cs" Line="4" Column="11" />
+      <File FileName="ProyectoFinal/Clases/VehiculoDeCarga.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoFinal" expanded="True">
+            <Node name="ProyectoFinal" expanded="True">
+              <Node name="Clases" expanded="True">
+                <Node name="VehiculoDeCarga.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ProyectoFinal FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProyectoFinal PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

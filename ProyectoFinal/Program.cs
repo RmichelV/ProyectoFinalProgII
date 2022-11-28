@@ -7,9 +7,11 @@ namespace ProyectoFinal.Clases
         static void Main(string[] args)
         {
             Empresa emp1 = new Empresa();
-
-            emp1.VerDatos();
-
+            Vehiculos ve1 = new Vehiculos();
+         
+            Console.WriteLine($"/////////");
+            ve1.LeerDatosVehiculo();
+            ve1.VerDatosVehiculo();
             Console.ReadKey();
         }
     }

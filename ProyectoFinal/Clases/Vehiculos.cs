@@ -1,11 +1,11 @@
 ﻿using System;
 namespace ProyectoFinal.Clases
 {
-    abstract class Vehiculos
+    public class Vehiculos
     {
         //atributos//
-        protected string idVehiculo;
-        protected string tipoDeVehiculo;
+        private string idVehiculo;
+        private string tipoDeVehiculo;
 
         //constructores//
         public Vehiculos()
@@ -24,13 +24,8 @@ namespace ProyectoFinal.Clases
         {
             Console.Write($"Ingrese el ID del vehiculo: ");
             this.idVehiculo = Console.ReadLine();
-            
-            do
-            {
-                Console.Write($"Ingrese correctamente el tipo de vehiculo  que es el {this.idVehiculo} (carga o pasajeros): ");
-                this.tipoDeVehiculo = Console.ReadLine();
-                
-            } while (this.tipoDeVehiculo!="carga" || this.tipoDeVehiculo != "Carga" || this.tipoDeVehiculo!="Pasajeros" || this.tipoDeVehiculo!="pasajeros");
+            Console.Write($"Ingrese correctamente el tipo de vehiculo  que es el {this.idVehiculo} (carga o pasajeros): ");
+            this.tipoDeVehiculo = Console.ReadLine();
         }
 
     }   
